@@ -1,2 +1,2 @@
 # PrzemekGaleziowski
-repozytorium dla coderslab
+repozytorium z zadaniami
